@@ -7,6 +7,9 @@
     <author email="kamil.kafunek@yahoo.com">
         Kamil Kafúnek
     </author>
+	<content src="index.html" />
+    	<access origin="*" />
+	
     <preference name="phonegap-version" value="cli-6.3.0" />
     <preference name="android-build-tool" value="gradle" />
 		<preference name="orientation" value="portrait" />
@@ -36,10 +39,6 @@
 		<preference name="LoadingDialog" value="Kampo Production," />
 		<preference name="LoadUrlTimeoutValue" value="null" />
     
-    
-    
-    <content src="index.html" />
-    <access origin="*" />
                
    
  
